@@ -1,0 +1,71 @@
+* {
+   
+    margin: 0 auto;
+
+}
+body{
+    background-attachment:inherit;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #5d4f4f;
+    
+}
+
+#corpo{
+    position: absolute;
+   height:100%;
+    width: 20%;
+    background-color: red;
+}
+#corpo2{
+    position: absolute;
+    margin-left: 20%;
+    height: 100%;
+    width: 80%;
+    background-color: blue;
+}
+ .image{
+     margin-top: 2%;
+     position: absolute;
+     width: 90%;
+     margin-left: 6%;
+}
+.iframe-container {
+  overflow: hidden;
+  padding-top: 59.25%;
+  position: relative;
+}
+
+.iframe-container iframe {
+    border-radius: 10px;
+    margin-left: 33.3%;
+   margin-top: 24.3%;
+   border: 0;
+   height: 40%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 36.3%;
+}
+
+.circle {
+
+    margin-top: 2%;
+    margin-left: 25%;
+  background-color: #aaa;
+  border-radius: 50%;
+  width: 47%;
+  height: 20%;
+  overflow: hidden;
+  position: absolute;
+}
+
+.circle img {
+  position: relative;
+  bottom: 0;
+  width: 90%;
+}
+
+
+
+
